@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gta5_fsr_launcher", "gta5_fsr_launcher\gta5_fsr_launcher.vcxproj", "{D9BFFE40-C227-4305-87A9-626720083DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		GTA_BUILD|x64 = GTA_BUILD|x64
+		RPH_BUILD|x64 = RPH_BUILD|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9BFFE40-C227-4305-87A9-626720083DC4}.Debug|x64.ActiveCfg = Debug|x64
+		{D9BFFE40-C227-4305-87A9-626720083DC4}.Debug|x64.Build.0 = Debug|x64
+		{D9BFFE40-C227-4305-87A9-626720083DC4}.GTA_BUILD|x64.ActiveCfg = GTA_BUILD|x64
+		{D9BFFE40-C227-4305-87A9-626720083DC4}.GTA_BUILD|x64.Build.0 = GTA_BUILD|x64
+		{D9BFFE40-C227-4305-87A9-626720083DC4}.RPH_BUILD|x64.ActiveCfg = RPH_BUILD|x64
+		{D9BFFE40-C227-4305-87A9-626720083DC4}.RPH_BUILD|x64.Build.0 = RPH_BUILD|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7125C434-257B-4551-8351-2F20C14864C7}
+	EndGlobalSection
+EndGlobal
